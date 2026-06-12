@@ -1,6 +1,3 @@
-#ifndef ADD_H
-#define ADD_H
+#pragma once
 
 double add(double x, double y);
-
-#endif

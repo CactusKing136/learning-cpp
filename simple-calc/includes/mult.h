@@ -1,6 +1,3 @@
-#ifndef MULT_H
-#define MULT_H
+#pragma once
 
 double mult(double x, double y);
-
-#endif

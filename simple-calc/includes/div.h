@@ -1,6 +1,3 @@
-#ifndef DIV_H
-#define DIV_H
+#pragma once
 
 double div(double x, double y);
-
-#endif
