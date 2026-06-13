@@ -3,6 +3,7 @@
 #include "sub.h"
 #include "mult.h"
 #include "div.h"
+#include "print.h"
 
 int main()
 {
@@ -32,7 +33,7 @@ int main()
 		result = div(num1, num2);
 	}
 
-	std::cout << result << "\n";
+	print(result);
 
 	return 0;
 }
